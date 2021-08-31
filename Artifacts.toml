@@ -1,252 +1,252 @@
 [[SoapyLMS7]]
 arch = "aarch64"
-git-tree-sha1 = "fc437f93a51028855802c71871b208764b284ac4"
+git-tree-sha1 = "b1d69fec901418d674a24c1cb30a73ffd888a266"
 os = "macos"
 
     [[SoapyLMS7.download]]
-    sha256 = "a6c61d661c379de78a68301ecbe6ff8a79d786544ffd7e6d07191f7ebec8cad4"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "1f14013cbb09538bc866ae3e062acbebbbab6a2b0dc8577b16772d61bd6b5d0d"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.aarch64-apple-darwin.tar.gz"
 [[SoapyLMS7]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "96222cb7cd6ba7771e4d8c432e0ace3a270cc0fb"
+git-tree-sha1 = "f19542d44949304708fcb70339c8b8b1419fdda1"
 libc = "glibc"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "7a5b1421f8aee5b1be4741a63c8cbf3155db6d25716eb7926401ea4ef90be22d"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "ccc6ad34b7f3370a9535c7a6dfdb133ba5acbb29bc72a37a9fbceb7273a0d8df"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[SoapyLMS7]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "27a68bc2731997bbb0ae2ef024f539248112e4b5"
+git-tree-sha1 = "216c819d0da3b3b6d20c205febcf0748e92f23aa"
 libc = "glibc"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "7ff06dae77623f246f7ccf6c9997dcbb1a11c7cb2ec954a7574f80a38a64dadd"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "ef5150ccf19237ffc3cdb9d7e6a46d353bc13e1a5b7277ad81127dd6cedd8aa0"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[SoapyLMS7]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4a644b6444d35bd5cb2c7de2ad265b9b08e94828"
+git-tree-sha1 = "701d0de9ee987cacba3bd58de65c4856339cb8e8"
 libc = "musl"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "094d81cefe1a85f80e88a23a42e86a4a00d205a626348dba9fd353f9c58982eb"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "18a1ad4433f0f26634e43a5a7a850d1a91733e4e35ad37342c55247a401bf699"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.aarch64-linux-musl-cxx03.tar.gz"
 [[SoapyLMS7]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c2de674b85094763cacc49d69d2e5c02e345ca2e"
+git-tree-sha1 = "ac4d70ee2d8569af881f1baf26d9eeb6d1e33882"
 libc = "musl"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "5a32864b47b2736211121158d65296d35c1114d50da196b8b60f5f13d28fc71a"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "0fdf0e88b95c7bdf8ba7b39b5b7f7211e31639c60e96f7ac003be6a659152991"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.aarch64-linux-musl-cxx11.tar.gz"
 [[SoapyLMS7]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "14d83856f85e5f049a44567fd6d0545b532de1f1"
+git-tree-sha1 = "fc838bad6d72e4db6760767513f0925879cc5607"
 libc = "glibc"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "38e8f7696439b84bfae8ce63525dd627e23798c0b28127549bf16a0c1b8493a7"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "257b2e12cff1ced66d988842de279cc5e69f378d4f34e4b490bb04775c88cb04"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[SoapyLMS7]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "341ae8fcf26e01d5af5b216ea0e2637d08513bb3"
+git-tree-sha1 = "153473da089a69e794564c3c6e3eedb444057474"
 libc = "glibc"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "fb24216325acc7cbf9773679a97a9be8589d02eb76d1ef24772d18dce6d0d3e0"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "e21654ec4673fc7d33c61829443d91c67605bb5f770886cbf798ee34ad0b5042"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[SoapyLMS7]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f40cf38646cadec6dab59de0ec8dc518e10fc657"
+git-tree-sha1 = "db4a881f567d05fc512b2f5806919ea164ba8607"
 libc = "musl"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "88dc208fc7f630609ecf28366eec757d638e8fcc3aa29272232e7200d6295bee"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "450d44c0dee306aee37197f5d43b28edebd2f18c4a003e50ca3b4288ff86297c"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[SoapyLMS7]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2e6ac76ccee83db13fc58f17b51447828876b482"
+git-tree-sha1 = "56ebd67d69b2a96091564b2bffe7ad36f536b96e"
 libc = "musl"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "d34f5d5328eede1fb5474d1e4be4f757f72f75640ec6a4c267692da56a714027"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "5d59e59a9d62f8361c81f282f5c750be2f7c4ee55d3c9a6cbe619e1197c0b25f"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[SoapyLMS7]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e239e9b96302cb1b1ed0322c0642cc5dbf879539"
+git-tree-sha1 = "a26306e909de88abf17428086a53d8138f7af131"
 libc = "glibc"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "8cc67386452e0733f6a35dad810c4757bb1d7dfc8a64fcabd758c403cba8b5ba"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "0829b1dc2262aa00a6d87c29980dc41588cb8382005dd22a0738d8227109d4f3"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[SoapyLMS7]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c1593a11e036dc8f12b3bf4c65c69d70ef231d32"
+git-tree-sha1 = "a061816b9e7ed4b9b6c8afddf1ad1e9d608d6429"
 libc = "glibc"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "77ca25cdd5bc01b6cad45d0a295a8e97e4bb3963a6ceb08dc25d536004477c79"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "6df37cbe385b27478a5104c3fa4b935b2bc08baab9d280c4318603d8186982a6"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[SoapyLMS7]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1ff6140789e10bddecd2ad236c547226411cab90"
+git-tree-sha1 = "dd285908f1581919012b0fb876752438e52a9a9b"
 libc = "musl"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "e08541e08ed7ffbbb13f01a63c30c03048fc16401497eefeb55e488f4d448ba9"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "038eca0eb13a01cf32ff3816e294b443ef8f3469b113b51243fabc4ce93ac5b1"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[SoapyLMS7]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "11253b86647ea863f18440a2f8056272221c3c4b"
+git-tree-sha1 = "2a9ea34b361d382a06d7e9b7c420a8f73099c51c"
 libc = "musl"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "f33c23b55143721a8a3b52717c02dc50b2b15afa28894a10b7c85cb89640464e"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "97e6f5786359ba75fcf1d94445aa8ece7f1871daa36e5b4e1f917f360fde52cd"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[SoapyLMS7]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ca09ca729a737d5d68549fe9bd4b2fdf6f9e9403"
+git-tree-sha1 = "16d0ce5565c16e6a7f875771f7e660a320dc74c9"
 libc = "glibc"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "83f3cb280f4eb7502b7b6bb2339b27053c116e722e47ed52a3933cb8211e002d"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "320857f0ca1b2d97a801e5cff8845f063020be9ab463143dad28a80f1bdcfa0d"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.i686-linux-gnu-cxx03.tar.gz"
 [[SoapyLMS7]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d424fc698f67a9d1031580ef14e8898f52b07511"
+git-tree-sha1 = "4e14366234faf3a28706aecde05e356b7e948a56"
 libc = "glibc"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "a87fe2d002da52a68718de244ddb9c43efb597879855458e2a3710e2c9c00c69"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "1fe3870c806538ce3d485d8184b8e8e4d37dd0451c6906f1488f355ac445a14c"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.i686-linux-gnu-cxx11.tar.gz"
 [[SoapyLMS7]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "959a7ff3dad097a7846b64f572f7929fdb226c1f"
+git-tree-sha1 = "fe962e2501a863e43ef5dfa7e0814bf5088b64c1"
 libc = "musl"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "549c05c7c02c5bfebf3f5c030ad1366826901dec2f3d3325db4092afd44e13da"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "866d65fb71308ddc56eb20da36b4d193116201c16a7c1666c6c8141e829a30f5"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.i686-linux-musl-cxx03.tar.gz"
 [[SoapyLMS7]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "403acbf1672c452f9c0b2e3124404d58496a341d"
+git-tree-sha1 = "2cf271e1170aa2c2d6fcbe8771bf61f0bbca721a"
 libc = "musl"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "8b8601faa48520c821a3bd92cd7c7375a33a2fbd88de9c01edcf7c994bfb8d4c"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "c852342d1a6ec65f13c0f0d0f21505591546c58d85a0ef3832b11d06777afdf5"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.i686-linux-musl-cxx11.tar.gz"
 [[SoapyLMS7]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a128e5e9f7c71df4735ac2bdeea2874a7efbd340"
+git-tree-sha1 = "058b84a1bb015af41ab2cc75595bab7ad87ecdce"
 libc = "glibc"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "6afa41fa25588f150bf69bb76efdf0f252a44523b923b665fed4d449baf9e73d"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "6656b0ce20e353d584b2f53c12d1a6458982b96637d2a35c704a6801044c9a06"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[SoapyLMS7]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7a95d27b7365edf794f6b5ab8401cc3e4cef67ae"
+git-tree-sha1 = "d8117c97bb8e864bfd669be0a7fd580736bf216b"
 libc = "glibc"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "fd927a9c717ee1857c061fb14d45074249365b23276e2e24f18ee38b5f4d6241"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "bfed50389e8751892b59ab92e527b627a37a6fcd17f5d74625ef4c0cc8e38c6c"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[SoapyLMS7]]
 arch = "x86_64"
-git-tree-sha1 = "1dbf3eeba8e8cb0e719674beccd993b2b37da374"
+git-tree-sha1 = "c99be3fdf82299aa74d125f7fe27d7c0b0dc6be5"
 os = "macos"
 
     [[SoapyLMS7.download]]
-    sha256 = "e0fd817783584697e9537d611a1fe3bf405b0128893c8a015a73c7f056a5aac2"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "307d3acbe7f5ee11e6471047d1a949458f3975889d86a1a0c3771fef8a187470"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.x86_64-apple-darwin.tar.gz"
 [[SoapyLMS7]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "77fc4d1fe7162edb539879fe61b156c84e952475"
+git-tree-sha1 = "ab338576c76abbc1304f7baf24382b8f5128bb8a"
 libc = "glibc"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "4848ffd4e4cc7e610e36b691872126a9093503dc7a8b932f394e992a390861ba"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "c89c8194606a52ee2f81968477e894b5c8ddba379e5cd5941fe43590d6365ce7"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[SoapyLMS7]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "21d7bc4db58fed1021d1aab816c55677f8725f44"
+git-tree-sha1 = "767e8d69990961f04aaf071e196bf4d745d702fd"
 libc = "glibc"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "cc1415bf17c2d9908c8350d5784c2f751d777ff0e00a8193ee085cc5c2f946a5"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "c6c8361a33a4f6a90de470b32e760cfd05541221fe8f6262dcd30b818c2b7454"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[SoapyLMS7]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "30efb8b664c3d678e03a6c5297091276b0bdec0f"
+git-tree-sha1 = "55f65ad06cee7d27d6a75ae2ec88b78ffd9e94ff"
 libc = "musl"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "573c7e0aac0f1529edf28e62a5b9ffb1d1709a059eb2bce518974aa45a3ebfa5"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "3c843073f0ea7e97057a765b232b845b191bc5e13b627905c33d4d74d46d9105"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.x86_64-linux-musl-cxx03.tar.gz"
 [[SoapyLMS7]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "06ab47a828240948d7889ec6dfadfb1c6a889434"
+git-tree-sha1 = "c184ac591e03d920c6ae1e36b267ba0123e58029"
 libc = "musl"
 os = "linux"
 
     [[SoapyLMS7.download]]
-    sha256 = "2a7daee76f94ae95d56c204cb92446ec335956d8b6bf5c1de6098af4005101a3"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "9cb37009bb091aada044935a567a15a7c33a7100ead31fff351dd58ee831a84c"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.x86_64-linux-musl-cxx11.tar.gz"
 [[SoapyLMS7]]
 arch = "x86_64"
-git-tree-sha1 = "794ca96338e9771a84968ee64d2a2304547b2cdf"
+git-tree-sha1 = "f9319616fa95e0df1092e3a75f1e0d87453b7cce"
 os = "freebsd"
 
     [[SoapyLMS7.download]]
-    sha256 = "da312a75a48b61c552c503fbd8e7d56f9f602874c456a64a56738ea1da9502b3"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+0/SoapyLMS7.v20.10.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "3d7e6eef4e57ddb19a13c4347575985bbac7ded1dde14a00333586afddce34ca"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLMS7_jll.jl/releases/download/SoapyLMS7-v20.10.0+1/SoapyLMS7.v20.10.0.x86_64-unknown-freebsd.tar.gz"

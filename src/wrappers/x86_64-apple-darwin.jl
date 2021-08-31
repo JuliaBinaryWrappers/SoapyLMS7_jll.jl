@@ -2,12 +2,13 @@
 export LimeUtil, libLMS7Support, libLimeSuite
 
 using soapysdr_jll
+using libusb_jll
 JLLWrappers.@generate_wrapper_header("SoapyLMS7")
 JLLWrappers.@declare_executable_product(LimeUtil)
 JLLWrappers.@declare_library_product(libLMS7Support, "libLMS7Support.dylib")
 JLLWrappers.@declare_library_product(libLimeSuite, "@rpath/libLimeSuite.20.10-1.dylib")
 function __init__()
-    JLLWrappers.@generate_init_header(soapysdr_jll)
+    JLLWrappers.@generate_init_header(soapysdr_jll, libusb_jll)
     JLLWrappers.@init_executable_product(
         LimeUtil,
         "bin/LimeUtil",
